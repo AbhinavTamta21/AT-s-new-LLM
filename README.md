@@ -110,7 +110,11 @@
 </h3>
 
 <hr>
+
+
 #Perform Information Retrieval to get contents of a webpage in Shakespearen English.
+
+
 <h3>
  Enter a url to get the contents of the webpage in Shakespearen English. ( p tags are used for final contents , you can tweak the code to include other page elements as well). 
 
