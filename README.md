@@ -18,7 +18,15 @@
 3.) Shakespeare Mathematical Calculator: Shakespeare answers your Math problem consisting of Basic Arithmrtic , Trignometry , Exponential and Logarithmic Functions ,Complex Numbers,Matrices and Linear Algebra,Statistics, Calculus,Units and Conversions, Symbolic Computation,Parsing and Evaluating Expressions.
 ​
   
-4.) Ask Shakespeare Anything: Ask shakespeare about anything , he will answer you in his signature style.(shakespearen english).</h2>
+4.) Ask Shakespeare Anything: Ask shakespeare about anything , he will answer you in his signature style.(shakespearen english).
+  
+
+
+5.) Perform Information Retrieval to get contents of a webpage in Shakespearen English.
+
+
+
+</h2>
 
 <hr>
 
@@ -100,6 +108,16 @@
   
   https://drive.google.com/file/d/1Ag1rffzKLJ_cuEdLJgMDcys0WXobezfL/view?usp=sharing
 </h3>
+
+<hr>
+#Perform Information Retrieval to get contents of a webpage in Shakespearen English.
+<h3>
+ Enter a url to get the contents of the webpage in Shakespearen English. ( p tags are used for final contents , you can tweak the code to include other page elements as well). 
+
+  
+ Output video Link: https://drive.google.com/file/d/1Ym3p7-FV56v4ScztgL81JK9scl4lP7SS/view?usp=sharing
+</h3>
+
 
 <hr>
 
