@@ -1,6 +1,6 @@
 # Shakespeare's LLM
   An AI Assistant  and Information Retrieval System  , in Shakespearen Style create by Abhinav Tamta.
- 
+ kaggle notebook link : https://www.kaggle.com/code/tigerbunny21/at-s-new-llm
  <hr>
  
 <h1>Below is a Shakespeare LLM made by Abhinav Tamta.</h1>
