@@ -25,6 +25,7 @@
 
 <h3>An important point to note is that the  semantics or the intended meaning , which can be lost if the direct conversion of English sentences to Shakespearen Sentnences are done.This way which I came up with is different , original , unique and better than the traditional translational approach and provides more accurate results for sentences which have modern words and terms which were absent in the Shakespearen era.</h3>
 <hr>
+
 # Web Search function made
 
 <h3>Shakespeare provides the web Search results about your query ( in shakespearen English).
@@ -34,6 +35,7 @@
 </h3>
 
 <hr>
+
 # News Article function made
 
 <hr>
@@ -44,6 +46,8 @@
 </h3>
 
 <hr>
+
+
 # Function for Shakespeare Math Function
 <h3>
 * The Shakespearean Mathematical Model is a functionality made  using JavaScript libraries that provides a wide range of mathematical functions and capabilities. Here are some of the main functions and features offered by the Shakespearean Mathematical Model:
@@ -86,6 +90,8 @@
   </h3>
 
 <hr>
+
+
 # Function for Sheakespeare answers
 
 <h3>Ask Shakerpeare about anything , he will answer in his signature style ( Old English).
